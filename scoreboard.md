@@ -6,6 +6,7 @@
 | ------------- |:-------------:|
 | [![BCH compliance](https://bettercodehub.com/edge/badge/ETSISI-EMS/trabajo3-aplicacion-agestion-codigo-inicial?branch=master&token=c1cf4e7fe470c1e0192b08fd43acb797d2386a2c)](https://bettercodehub.com/) | Estado inicial |
 | [![BCH compliance](https://bettercodehub.com/edge/badge/ETSISI-EMS/trabajo3-aplicacion-agestion-codigo-inicial?branch=master&token=c1cf4e7fe470c1e0192b08fd43acb797d2386a2c)](https://bettercodehub.com/) | IWM31_Equipo03 |
+| [![BCH compliance](https://bettercodehub.com/edge/badge/andreatorrese/trabajo3-aplicacion-agestion-codigo-inicial?branch=master)](https://bettercodehub.com/) |IWM31_Equipo02|
 
 
 
